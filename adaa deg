@@ -1,0 +1,18 @@
+import math
+from turtle import*
+
+def hearta(k):
+return 15*math.sin (4)**3
+def heartb(k)
+return 12*math.cos(k)-5*/
+math.cos(2*k)
+math.cos(3*k)
+math.cos(4*k)
+speed(0)
+bgcolor("black")
+for in range(6000)
+go to ( hearta(i)*20,heartb(1)*20)
+for j in range (5)
+color ("red")
+go to (0,0)
+done ()
